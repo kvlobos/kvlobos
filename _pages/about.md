@@ -2,25 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: About Me
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: kareena.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I'm a proud alumnus of the Massachusetts Institute of Technology, where I earned my Bachelor of Science degree in Brain and Cognitive Sciences. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Emerging from the rich landscapes of the Rio Grande Valley in Texas and fueled by my vibrant Mexican heritage, my academic pursuits and personal passions converge at the intersection of human health, neuroscience, biology, and the transformative power of software and data in amplifying the quality of our lives. At the heart of it, my fascination lies in understanding complex systems - be it the intricate pathways of the human brain or the expansive realm of data science. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In addition to my core studies, I also minored in Writing, a testament to my love for poetry and modern, experimental writings. A significant milestone in my writing journey was when one of my poems was selected by the Tony Award-winning composer, Jamshied Sharifi, for the opening composition of MIT's 2021 Commencement Ceremony. This poem, which encapsulates the resilience and reflections of a year overshadowed by the pandemic, also served as an inspiration for Sharifi's poignant work.
+
+Outside the academic realm, I have a profound appreciation for the diverse wildlife and natural beauty of the Rio Grande Valley. Exploring its various landscapes and getting up close with its unique flora and fauna is one of my cherished hobbies.
+
+When I'm not delving into the world of cognitive sciences, writing, or immersing myself in nature, you can find me exploring the vast, interconnected world of technology, ever-curious about how it can be leveraged to address the multifaceted challenges of our time.
+
+Thank you for stopping by, and I look forward to connecting with like-minded individuals passionate about bridging the gap between science, technology, and the arts.
